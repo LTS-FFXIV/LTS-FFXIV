@@ -1,7 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LTS-FFXIV&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LTS-FFXIV&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LTS-FFXIV&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LTS-FFXIV&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LTS-FFXIV&theme=2077&utcOffset=8)
-
+![](https://komarev.com/ghpvc/?username=LTS-FFXIV&pixel)
 <!--
 **LTS-FFXIV/LTS-FFXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
